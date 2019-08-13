@@ -9,7 +9,6 @@
       <Lightning:layoutItem padding="around-small" size="12">
         <Lightning:layout>
           <Lightning:layoutItem padding="around-small" size="3">
-            Lightning Component Building Blocks Chapter 3 [ 85 ]
             <div class="page-section page-right">
               <h2>Left Sidebar</h2>
               <p>
